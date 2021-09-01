@@ -1,0 +1,15 @@
+#header-text-8 .bg {
+    background-image: url('../images/bg-82.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:0.75;
+}#desc-img-list-3col .bg-wrap {
+    background-color: #f4f5f6;
+}#contact-text-form .bg {
+	background-image: url('../images/bg-3.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom right;
+	opacity: 0.15;
+}
